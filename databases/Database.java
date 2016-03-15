@@ -1,4 +1,4 @@
-public class Database{
+public interface Database{
   //addEntry()
   //editEntry()
   //removeEntry()
