@@ -1,5 +1,10 @@
 public class Organization{
-  //Type
-  //Organization fields..
   
+  /* Description: Manage organization's information
+   * 
+   * Responsibilities:
+   * Know organization fields 
+   *  
+   * Know organization type
+   */
 }
