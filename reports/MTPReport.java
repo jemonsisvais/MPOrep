@@ -1,3 +1,8 @@
 public class MTPReport extends Report{
-  //knows mtp report unique fields.
+  /*Description: Manages MTP report information, subclass of Report
+   * 
+   * Unique responsibilities:
+   * Know common elements of a project
+   * Know unique MTP fields
+   */
 }
