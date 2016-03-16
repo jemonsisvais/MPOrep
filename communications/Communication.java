@@ -1,4 +1,9 @@
-public class Communication{
+public class Communications
+{
   
-  //Send email(User u);
+  /* Description: Manages communications between system users
+   * 
+   * Responsibilities:
+   * Send user email Collaborates with UserDatabase
+   */
 }
