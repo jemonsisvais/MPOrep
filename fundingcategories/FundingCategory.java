@@ -1,5 +1,10 @@
-public class FundingCategory{
-  //revenueType;
+public class FundingCategory
+{
   
-  //public void elegibility(Project p);
+  /* Description: super class that manages funding category information
+   * 
+   * Common subclass responsibilities:
+   * Know revenue type
+   * Know Eligibility
+   */
 }
